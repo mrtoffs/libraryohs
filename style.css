@@ -1,0 +1,49 @@
+h1 {
+  font-family: "Oswald", Helvetica;
+  font-size: 48px;
+  font-weight: bold;
+  text-align: center;
+  color: #66CCFF;
+}
+
+h2 {
+  font-family: "Oswald", Helvetica;
+  font-size: 48px;
+  font-weight: bold;
+  color: #66CCFF;
+}
+
+
+p {
+  font-family: "Crimson Text", Georgia;
+  font-size: 18px;
+  line-height: 1.5;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.annbar {
+  background-color: #66CCFF;
+  border: 5px solid #1F3D4C;
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+  text-align: left;
+}
+
+.aim {
+  font-family: "Crimson Text", Georgia;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.res {
+  display: inline;
+
+
+}
+
+.resImg{
+  height: 60px;
+  width: auto;
+}
